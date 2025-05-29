@@ -1,0 +1,32 @@
+[
+  {
+    "image": "./mumbai-home1.jpg",
+    "price": "1.5 Cr",
+    "name": "Luxury Apartment in Mumbai",
+    "detail": "3 BHK apartment with sea view in South Mumbai."
+  },
+  {
+    "image": "./delhi-home.jpg",
+    "price": "2.2 Cr",
+    "name": "Villa in Delhi",
+    "detail": "Spacious 4 BHK villa in a prime location of New Delhi."
+  },
+  {
+    "image": "./bengaluru-home.jpeg",
+    "price": "1.8 Cr",
+    "name": "Modern Flat in Bangalore",
+    "detail": "2 BHK flat in the heart of Bangalore's IT hub."
+  },
+  {
+    "image": "./chennai-home.jpg",
+    "price": "1.2 Cr",
+    "name": "Beach House in Chennai",
+    "detail": "Beautiful 3 BHK beach house near Marina Beach."
+  },
+  {
+    "image": "./kolkata-home.jpg",
+    "price": "90 L",
+    "name": "Heritage Home in Kolkata",
+    "detail": "2 BHK heritage home in the cultural capital of India."
+  }
+]
